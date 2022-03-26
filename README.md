@@ -28,3 +28,7 @@ Raspberry Pi
 Transfer Data from Computer connecting to raspberry pi
 1. pscp.exe -P 22 pi@192.168.1.55:/home/pi/Pictures/TestSet-Camera8MP/*.jpg C:\TestImage
 2. pscp.exe -P 22 C:\test\models\*.py pi@192.168.1.55:/home/pi/Programs/
+
+Connecting to Google Drive by mounting to Raspberry Pi
+https://forums.raspberrypi.com/viewtopic.php?f=29&t=109587
+
