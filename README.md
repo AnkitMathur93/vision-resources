@@ -10,3 +10,20 @@ Datasets Available
 
 Tools
 1. Matlab - https://matlab.mathworks.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+Raspberry Pi
+
+Transfer Data from Computer connecting to raspberry pi
+1. pscp.exe -P 22 pi@192.168.1.55:/home/pi/Pictures/TestSet-Camera8MP/*.jpg C:\TestImage
