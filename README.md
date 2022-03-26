@@ -30,5 +30,10 @@ Transfer Data from Computer connecting to raspberry pi
 2. pscp.exe -P 22 C:\test\models\*.py pi@192.168.1.55:/home/pi/Programs/
 
 Connecting to Google Drive by mounting to Raspberry Pi
-https://forums.raspberrypi.com/viewtopic.php?f=29&t=109587
+1. gDriveFS - https://forums.raspberrypi.com/viewtopic.php?f=29&t=109587
+2. pyDrive - https://www.projectpro.io/recipes/upload-files-to-google-drive-using-python
+
+
+
+ 
 
