@@ -37,7 +37,9 @@ Connecting to Google Drive by mounting to Raspberry Pi
 
 MatLab:
 1. Loading and Saving Images - https://www.youtube.com/watch?v=m_zVQFzx2Ag
-2. 
+2. Working with Image Data - https://www.youtube.com/watch?v=l_D88YYa8vc
+3. Converting Image Data - https://www.youtube.com/watch?v=TVqpf4OWGd0
+4. Spatial Filtering - https://www.youtube.com/watch?v=VRbzUmhaaxw
 
 
 
