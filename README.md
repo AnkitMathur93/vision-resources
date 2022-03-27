@@ -35,5 +35,11 @@ Connecting to Google Drive by mounting to Raspberry Pi
 
 
 
+MatLab:
+1. Loading and Saving Images - https://www.youtube.com/watch?v=m_zVQFzx2Ag
+2. 
+
+
+
  
 
